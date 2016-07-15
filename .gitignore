@@ -1,6 +1,6 @@
-logs
-*.log
-node_modules
-.DS_Store
-dist
+bsa-tooling-task-master/logs
+bsa-tooling-task-master/*.log
+bsa-tooling-task-master/node_modules
+bsa-tooling-task-master/.DS_Store
+bsa-tooling-task-master/dist
 .idea/*
